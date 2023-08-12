@@ -1,2 +1,2 @@
 # GitHubPractice
-Held on VemanaIT
+Held on VemanaIT seminars
